@@ -1,1 +1,2 @@
-Created a project JPetStore, whoch is a Eocommerce site based on different animal and we can buy that!!
+Created a JPetStore project'S HLR,TEST SCENARIO AND TEST CASES. 
+Which is a Eocommerce site based on different apats and we can buy that!!
